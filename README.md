@@ -1,4 +1,9 @@
-_**n**ever_ _**e**nough_ **m**ine**c**raft **iso**metric image renderer
+<em><strong>n</strong>ever <strong>e</strong>nough</em> <strong>m</strong>ine<strong>c</strong>raft <strong>iso</strong>metric image renderer
+
+<!---
+nemciso
+Never Enough minecraft isometric image renderer
+-->
 
 A high performance minimalistic isometric image renderer for Minecraft v1.0+ worlds.
 
