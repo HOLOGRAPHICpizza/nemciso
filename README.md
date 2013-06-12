@@ -1,4 +1,4 @@
-_**n**ever **e**nough_ **m**ine**c**raft **iso**metric image renderer
+_**n**ever_ _**e**nough_ **m**ine**c**raft **iso**metric image renderer
 
 A high performance minimalistic isometric image renderer for Minecraft v1.0+ worlds.
 
